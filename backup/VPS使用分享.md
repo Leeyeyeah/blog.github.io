@@ -7,4 +7,12 @@
   看中这台VPS没别的，就是超超超超多的流量，每个月20T，但用了之后发现和RN不相上下，没用线路优化，后续用来看直播用。
 ### Raksmart VPS US
   这台VPS看中他的原因有两个，一是无限流量，二是有线路优化不贵且是美国VPS，用了一下发现是真的不错，但速度上还是逊色于BY，估计是物理上的限制了，但这个价格服务还是非常不错的，速度也可以跑非常高，先用一个月看看他的具体情况。
+# 独角鲸VPS
+  突然兴奋加一条VPS分享，先看图
+
+<img width="2310" height="1078" alt="Image" src="https://github.com/user-attachments/assets/07a0d5a8-919c-4c37-b0a1-c95b5a3aee03" />
+
+<img width="1143" height="395" alt="Image" src="https://github.com/user-attachments/assets/d4b14296-fa87-4954-806b-ecedda050281" />
+我嘞个豆，这是什么神机，0.28刀，这么便宜，新能，ip又好，我去，真是捡到宝了，我本来还以为是一个骗钱的VPS呢，我的天
+
 ![一个卡通女孩坐在她的桌子上_拿着电脑坐在她的桌子上.gif](https://hub.gitmirror.com/raw.githubusercontent.com/1143520/doro/main/loop/一个卡通女孩坐在她的桌子上_拿着电脑坐在她的桌子上.gif)
