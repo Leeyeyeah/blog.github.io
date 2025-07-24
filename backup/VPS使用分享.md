@@ -15,4 +15,9 @@
 <img width="1143" height="395" alt="Image" src="https://github.com/user-attachments/assets/d4b14296-fa87-4954-806b-ecedda050281" />
 我嘞个豆，这是什么神机，0.28刀，这么便宜，新能，ip又好，我去，真是捡到宝了，我本来还以为是一个骗钱的VPS呢，我的天
 
+# hostuno
+再来分享一个，虽然不是VPS,但是也是个神机，无限流量，速度不错，但是。。。。
+<img width="917" height="746" alt="Image" src="https://github.com/user-attachments/assets/1022e963-5427-471c-95ed-b60a52451d5f" />
+
+
 ![一个卡通女孩坐在她的桌子上_拿着电脑坐在她的桌子上.gif](https://hub.gitmirror.com/raw.githubusercontent.com/1143520/doro/main/loop/一个卡通女孩坐在她的桌子上_拿着电脑坐在她的桌子上.gif)
